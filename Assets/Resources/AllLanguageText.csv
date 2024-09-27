@@ -1,0 +1,68 @@
+﻿Language,English,Chinese
+Language,中文,English
+Game Setting,Game Setting,遊戲設定
+Restart Game,Restart Game,重新開始
+Resume Game,Resume,繼續遊戲
+Giant Roach,Giant Roach,巨型阿蟑
+Giant Roach Shell,Giant Roach Shell,巨型阿蟑的殼
+Test_Btn_1,Test_Btn_1,測試Btn1
+Test_Btn_2,Test_Btn_2,測試Btn2
+Des_Giant Roach Shell,(英)巨型阿蟑的殼描述...,巨型阿蟑的殼描述...
+Quantity,Quantity,數量
+Use,Use,使用
+Drop,Drop,丟棄
+MonsterDrop,Monster Drop,怪物掉落物
+Resource,Resource,資源
+Taiwan Broom,Taiwan Broom,台式掃把
+Weapon,Weapon,武器
+Des_Taiwan Broom,Des_Taiwan Broom,台式掃把描述...
+Sort By Time,Sort By Time,依時間排序
+Sort By Category,Sort By Category,依種類排序
+Items,Items,物品
+Category,Category,種類
+Item,Item,物品
+Unequip,Unequip,卸下
+Nutrition,Nutrition,營養
+Health,Health,生命值
+Growth,Growth,成長值
+Following,Following,跟隨
+Resting,Resting,休息
+Hiding,Hiding,躲藏
+Confirm,Confirm,確認
+Save and Exit,Save and Exit,儲存並退出
+Load Saved,Load Saved,讀取存檔
+New Game,New Game,新遊戲
+Load Save,Load Save,讀取存檔
+Starting a new game will overwrite the saved data. ,Starting a new game will overwrite the saved data. ,新遊戲
+Are you sure you want to continue?,Are you sure you want to continue?,開始新遊戲將會覆蓋存檔，確定要繼續嗎？
+Huge Roach,Huge Roach,大蟑螂
+Huge Roach Shell,Huge Roach Shell,大蟑螂殼
+Des_Machete,Des_Machete,開山刀描述……
+Machete,Machete,開山刀
+Loading,Loading,載入中
+Warning_OverwriteSaved,Starting a new game will overwrite the saved data. ,開啟新遊戲將會覆蓋先前的存檔，確定要繼續嗎？
+Feed,Feed,餵食
+回饋表單,Feedback Form,回饋表單
+開發過程,Development Record,開發過程
+測試版本 / v0.1.5 / 2023.10.21,Testing Version / v0.1.5 / 2023.10.20,測試版本 / v0.1.5 / 2023.10.20
+輕觸螢幕開始教學...,Tap the screen to begin the tutorial...,輕觸螢幕開始教學...
+略過教學,Skip Tutorial,略過教學
+試著移動角色吧!,Try moving your character!,試著移動角色吧!
+新手導引(1/5),Beginner's Guide (1/5),新手導引(1/5)
+新手導引(2/5),Beginner's Guide (2/5),新手導引(2/5)
+新手導引(3/5),Beginner's Guide (3/5),新手導引(3/5)
+新手導引(4/5),Beginner's Guide (4/5),新手導引(4/5)
+新手導引(5/5),Beginner's Guide (5/5),新手導引(5/5)
+靠近地上的物品並點擊圖示撿起,Approach items on the ground and click the icon to pick them up.,靠近地上的物品並點擊圖示撿起
+有隻可愛的烏龜！\n(輕觸螢幕繼續...),There's an adorable turtle!\n(Tap the screen to continue...),有隻可愛的烏龜！\n(輕觸螢幕繼續...)
+點這裡查看烏龜狀態,Tap here to check the turtle's status.,點這裡查看烏龜狀態
+隨時注意烏龜血量，\n千萬不能讓烏龜死掉！\n\n透過面板可以切換烏龜狀態，分別為 [跟隨]，[休息] 以及 [躲藏]\n\n\n點擊空白處關閉此面板…,Always keep an eye on the turtle's health.\nNever let the turtle die!\n\nYou can switch the turtle's status using the panel: [Follow]，[Rest]， and [Hide].\n\n\nClick anywhere to close this panel…,隨時注意烏龜血量，\n千萬不能讓烏龜死掉！\n\n透過面板可以切換烏龜狀態，分別為 [跟隨]，[休息] 以及 [躲藏]\n\n\n點擊空白處關閉此面板…
+點擊背包圖示打開背包,Click the backpack icon to open the backpack.,點擊背包圖示打開背包
+點擊物品查看該物品的資訊,Click on items to view their information.,點擊物品查看該物品的資訊
+點擊[餵食]可以讓烏龜吃下去，\n也可以從背包直接將物品拖曳到烏龜身上,Click [Feed] to feed the turtle，\nor you can drag items directly from the backpack onto the turtle.,點擊[餵食]可以讓烏龜吃下去，\n也可以從背包直接將物品拖曳到烏龜身上
+教學完成！\n帶著你的龜龜去探險吧！,Tutorial complete!\nTake your turtle on an adventure!,教學完成！\n帶著你的龜龜去探險吧！
+此為開發中版本：,This is a development version:,此為開發中版本：
+Drag,Drag the attack button，aim，and release.,拖曳攻擊按鈕，瞄準後放開
+繼續,Continue,繼續
+取消,Cancel,取消
+測,none,測
